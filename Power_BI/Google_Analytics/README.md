@@ -23,3 +23,8 @@ da área de Marketing gostaria de ter as respostas às perguntas abaixo:
 ## Análise dos dados e entregar das respostas ao Gestor de Marketing
 
 ![Google Analytics](https://raw.githubusercontent.com/rodolffoterra/dashboard/main/Power_BI/Google_Analytics/imagem/Google_Analytics.png)
+
+---
+
+
+![Dashboard_Google_Analytics](https://raw.githubusercontent.com/rodolffoterra/dashboard/main/Power_BI/Google_Analytics/imagem/Dashboard_Google_Analytics.png)
