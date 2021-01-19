@@ -1,4 +1,4 @@
-### O Que é um Dashboard?
+# O Que é um Dashboard?
 
 --
 
@@ -9,7 +9,7 @@
 * Com o uso de visualizações de dados (Gráficos, maps, tabelas e elementos visuais), o Dashboard simplifica o Processo de análise de dados, e provê ao usuário uma visão clarta do que já ocorreu, da situação atual ou eventual previsões.
 
 
-# Problema de Negócio:
+### Problema de Negócio:
 
 Você é o Analista de Dados de uma operadora de plano de saúde que atende em quatro regiões do Brasil. Os diretores perceberam que os gastos de seguro saúde aumentaram de forma considerável e precisam monitorar a evolução dos gastos.
 
